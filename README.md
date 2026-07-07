@@ -270,7 +270,14 @@ for submitting a PR (Pull Request).
 If you have any ideas or questions, feel free to open an issue.
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=mrsonandrade/pyswarming&type=Date)](https://star-history.com/#mrsonandrade/pyswarming)
+
+<a href="https://www.star-history.com/?repos=mrsonandrade%2Fpyswarming&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mrsonandrade/pyswarming&type=date&theme=dark&legend=top-left&sealed_token=pjQpBYRwoM4fU-URxUIJDXXAWmoNnm8QA3YdkavclFvzEJoy8X4M-R_JjvpWtLBxEiXpsa4E_2dqDSD33SqYY3Hm99GSAMScEy7YD1xOvnKoVunE7xpOGk-rU1N4Icee2_x38T8SRJtUFEwczmNk41IcxXXEd8IHaHaD9cGpPXJgoqr5DFxbuHMJ72B0" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mrsonandrade/pyswarming&type=date&legend=top-left&sealed_token=pjQpBYRwoM4fU-URxUIJDXXAWmoNnm8QA3YdkavclFvzEJoy8X4M-R_JjvpWtLBxEiXpsa4E_2dqDSD33SqYY3Hm99GSAMScEy7YD1xOvnKoVunE7xpOGk-rU1N4Icee2_x38T8SRJtUFEwczmNk41IcxXXEd8IHaHaD9cGpPXJgoqr5DFxbuHMJ72B0" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=mrsonandrade/pyswarming&type=date&legend=top-left&sealed_token=pjQpBYRwoM4fU-URxUIJDXXAWmoNnm8QA3YdkavclFvzEJoy8X4M-R_JjvpWtLBxEiXpsa4E_2dqDSD33SqYY3Hm99GSAMScEy7YD1xOvnKoVunE7xpOGk-rU1N4Icee2_x38T8SRJtUFEwczmNk41IcxXXEd8IHaHaD9cGpPXJgoqr5DFxbuHMJ72B0" />
+ </picture>
+</a>
 
 
 ## Acknowledgements
